@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 Sou Mário Neto !
+💻📚 Estudando Python e lógica de programação 
+🚀 Aprendendo a transformar ideias em código limpo e funcional
 
 <!--
 **mc0sta7/mc0sta7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
